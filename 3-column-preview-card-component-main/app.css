@@ -90,8 +90,15 @@ button:focus{
 .active3:active{
     background-color: var(--Very-dark-cyan);
 }
-
-
+.active2{
+    color:var(--Dark-cyan);
+}
+.active3{
+    color:var(--Very-dark-cyan);
+}
+.active3{
+    color: var(--Bright-orange);
+}
 @media (max-width:900px) {
   
     .container-flex{
